@@ -1,0 +1,6 @@
+main: me.phelix.factions.Main
+version: 1.0
+name: Factions
+commands:
+  f:
+    aliases: [fac, factions]
